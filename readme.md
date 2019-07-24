@@ -3,6 +3,8 @@
 
 > by Teerasej Jiraphatchandej, https://www.nextflow.in.th
 
+สนใจติดต่อ จัดอบรม [โทร 083-071-3373](tel:083-071-3373) หรือส่ง Email มาที่ [training@nextflow.in.th](mailto:training@nextflow.in.th)
+
 ## First Repository
 
 1. [สร้าง local git repository](/create-local-git-repo.md)
