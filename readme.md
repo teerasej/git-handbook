@@ -5,6 +5,10 @@
 
 สนใจติดต่อ จัดอบรม [โทร 083-071-3373](tel:083-071-3373) หรือส่ง Email มาที่ [training@nextflow.in.th](mailto:training@nextflow.in.th)
 
+## Slide 
+
+- [Download Slide](https://www.dropbox.com/s/qkts9an2mnetj80/Git%20for%20Beginner.pdf?dl=0)
+
 ## First Repository
 
 1. [สร้าง local git repository](/create-local-git-repo.md)
