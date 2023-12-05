@@ -9,6 +9,10 @@
 
 - [Download Slide](https://www.dropbox.com/s/qkts9an2mnetj80/Git%20for%20Beginner.pdf?dl=0)
 
+## Setup
+
+- [Download & Setup Git client](/setup.md)
+
 ## First Repository
 
 1. [สร้าง local git repository](/create-local-git-repo.md)
