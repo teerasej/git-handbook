@@ -11,17 +11,25 @@
 
 ## Setup
 
-- [Download & Setup Git client](/setup.md)
+- [Download & Setup Git client](setup.md)
 
-## First Repository
+## ใช้งาน Git ในโปรเจคบนเครื่องของเรา
 
-1. [สร้าง local git repository](/create-local-git-repo.md)
-2. [การ commit การเปลี่ยนแปลงของ code ด้วย Visual Studio Code](/commiting-code.md)
-3. [สร้าง remote git repository](/create-remote-github.md)
-4. [กำหนด remote git url ให้กับ local git repository](/link-local-to-remote-repo.md)
+1. [สร้าง local git repository](contents/create-local-git-repo.md)
+2. [การ commit การเปลี่ยนแปลงของ code ด้วย Visual Studio Code](contents/commiting-code.md)
+3. [สร้าง remote git repository ผ่านการ publish ผ่าน Visual Studio Code](contents/publish-git-repo-to-github.md)
+
 
 ## Manage Branches
 
-1. [วิธีการสร้าง Branch](/branch-create.md) 
-2. [วิธีการสลับ Branch (Checkout Branch)](/branch-checkout.md)
-3. [วิธีการรวม Branch (Merge Branch)](/branch-merge.md)
+1. [วิธีการสร้าง Branch](contents/branch-create.md) 
+2. [วิธีการสลับ Branch (Checkout Branch)](contents/branch-checkout.md)
+3. [วิธีการรวม Branch (Merge Branch)](contents/branch-merge.md)
+
+## Managing Conflict
+
+Learning to Managing conflict
+
+## Other practices
+
+- [สร้าง remote git repository และ link กับ local git repository](contents/create-remote-repo-and-link-with-local/readme.md)
