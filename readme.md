@@ -9,26 +9,38 @@
 
 - [Download Slide](https://www.dropbox.com/s/qkts9an2mnetj80/Git%20for%20Beginner.pdf?dl=0)
 
-## Setup
+## 1. Setup
 
 - [Download & Setup Git client](setup.md)
+  
+### Optional 
 
-## ใช้งาน Git ในโปรเจคบนเครื่องของเรา
+> การทดสอบใช้งานต้องมี
+>  - Microsoft Account (ใช้ Gmail สร้าง Microsoft Account ได้)
+>  - Internet ที่ดีพอในขณะนั้น...
+
+- ทดสอบใช้งาน Git environment บน [Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git)
+
+## 2. ใช้งาน Git ในโปรเจคบนเครื่องของเรา
 
 1. [สร้าง local git repository](contents/create-local-git-repo.md)
-2. [การ commit การเปลี่ยนแปลงของ code ด้วย Visual Studio Code](contents/commiting-code.md)
-3. [สร้าง remote git repository ผ่านการ publish ผ่าน Visual Studio Code](contents/publish-git-repo-to-github.md)
+2. [การ commit การเปลี่ยนแปลงของ code ผ่าน Visual Studio Code](contents/commiting-code.md)
+3. [สร้างไฟล์ Markdown](contents/create-markdown-file.md)
+4. [สร้าง remote git repository ผ่านการ publish ผ่าน Visual Studio Code](contents/publish-git-repo-to-github.md)
+5. [ทดสอบ Clone โปรเจค](contents/clone-repo.md)
 
-
-## Manage Branches
+## 3. Manage Branches
 
 1. [วิธีการสร้าง Branch](contents/branch-create.md) 
 2. [วิธีการสลับ Branch (Checkout Branch)](contents/branch-checkout.md)
 3. [วิธีการรวม Branch (Merge Branch)](contents/branch-merge.md)
 
-## Managing Conflict
+## 4. ใช้งาน Github tools
 
-Learning to Managing conflict
+1. [การสร้าง Issue และใช้งาน Project Board](contents/create-issue-and-project-board.md)
+2. [ทดสอบสร้างและจัดการ Pull Request (Github)](https://github.com/skills/review-pull-requests)
+3. [ทดสอบสร้างและจัดการ Conflict (Github)](https://github.com/skills/resolve-merge-conflicts?azure-portal=true)
+4. [ทดสอบการจัดการ Release (Github)](https://github.com/skills/release-based-workflow)
 
 ## Other practices
 
