@@ -23,24 +23,23 @@
   
 2. รันคำสั่งด้านล่าง เพื่อกำหนด git user ของเรา ให้กับระบบ **โดยแทนที่คำว่า Your Name ด้วยชื่อภาษาอังกฤษของเรา**
 
-```bash
-git config user.name "Your Name"
-```
-
-และกด enter ถ้าถูกต้อง จะเหมือนไม่มีตอบสนองคำสั่ง ให้ไปขั้นตอนต่อไปได้เลย
+   ```bash
+   git config user.name "Your Name"
+   ```
+   และกด enter ถ้าถูกต้อง จะเหมือนไม่มีตอบสนองคำสั่ง ให้ไปขั้นตอนต่อไปได้เลย
 
 3. รันคำสั่งด้านล่าง เพื่อกำหนด git email ของเรา ให้กับระบบ **โดยแทนที่คำว่า your_email@example.com ด้วยชื่อภาษาอังกฤษของเรา**
 
-```bash
-git config user.email "your_email@example.com"
-```
+   ```bash
+   git config user.email "your_email@example.com"
+   ```
 
-และกด enter ถ้าถูกต้อง จะเหมือนไม่มีตอบสนองคำสั่ง แต่เราสามารถเช็คค่าที่ตั้งไว้ได้โดยการใช้คำสั่งด้านล่าง 
+   และกด enter ถ้าถูกต้อง จะเหมือนไม่มีตอบสนองคำสั่ง แต่เราสามารถเช็คค่าที่ตั้งไว้ได้โดยการใช้คำสั่งด้านล่าง 
 
-```
-git config --get user.name
-```
-```
-git config --get user.email
+   ```
+   git config --get user.name
+   ```
+   ```
+   git config --get user.email
 ```
 
