@@ -35,4 +35,12 @@ git config user.name "Your Name"
 git config user.email "your_email@example.com"
 ```
 
-และกด enter ถ้าถูกต้อง จะเหมือนไม่มีตอบสนองคำสั่ง
+และกด enter ถ้าถูกต้อง จะเหมือนไม่มีตอบสนองคำสั่ง แต่เราสามารถเช็คค่าที่ตั้งไว้ได้โดยการใช้คำสั่งด้านล่าง 
+
+```
+git config --get user.name
+```
+```
+git config --get user.email
+```
+
