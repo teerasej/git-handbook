@@ -9,9 +9,10 @@
 
 - [Download Slide](https://www.dropbox.com/s/qkts9an2mnetj80/Git%20for%20Beginner.pdf?dl=0)
 
-## 1. Setup
+## 1. Setup & Git Command
 
 - [Download & Setup Git client](setup.md)
+- [ทดสอบใช้งาน Git command](contents/test-git-command.md)
   
 ### Optional 
 
