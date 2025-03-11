@@ -39,9 +39,10 @@
 ## 4. ใช้งาน Github tools
 
 1. [การสร้าง Issue และใช้งาน Project Board](contents/create-issue-and-project-board.md)
-2. [ทดสอบสร้างและจัดการ Pull Request (Github)](https://github.com/skills/review-pull-requests)
-3. [ทดสอบสร้างและจัดการ Conflict (Github)](https://github.com/skills/resolve-merge-conflicts?azure-portal=true)
-4. [ทดสอบการจัดการ Release (Github)](https://github.com/skills/release-based-workflow)
+2. [ทดสอบสร้างและจัดการ Pull Request (Github)](https://github.com/nextflow-git-school/introduction-to-github)
+3. [รีวิวและจัดการ Pull Request (Github)](https://github.com/nextflow-git-school/review-pull-requests)
+4. [ทดสอบสร้างและจัดการ Conflict (Github)](https://github.com/nextflow-git-school/resolve-merge-conflicts)
+5. [ทดสอบการจัดการ Release (Github)](https://github.com/nextflow-git-school/release-based-workflow)
 
 ## Other practices
 
