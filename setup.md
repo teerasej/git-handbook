@@ -10,12 +10,12 @@
 1. [ดาวน์โหลดไฟล์ติดตั้งที่เหมาะสมกับระบบปฏิบัติการของเรา จากที่นี่](https://code.visualstudio.com/)
 2. ดาวน์โหลดไฟล์เสร็จแล้ว ให้ดำเนินการติดตั้งให้เรียบร้อย
 
-## 2. Download Git client setup file (ถ้ายังไม่มี)
+## 3. Download Git client setup file (ถ้ายังไม่มี)
 
 1. [ดาวน์โหลดไฟล์ติดตั้งที่เหมาะสมกับระบบปฏิบัติการของเรา จากที่นี่](https://git-scm.com/downloads)
 2. ดาวน์โหลดไฟล์เสร็จแล้ว ให้ดำเนินการติดตั้งให้เรียบร้อย
 
-## 3. ตั้งค่า Username และ Email 
+## 4. ตั้งค่า Username และ Email 
 
 1. เปิดโปรแกรม Command Line Interface
    - Windows สามารถใช้โปรแกรม Command Prompt หรือ Windows Terminal ก็ได้
