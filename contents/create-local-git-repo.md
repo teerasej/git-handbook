@@ -1,7 +1,7 @@
 
 # สร้าง local git repository
 
-1. เปิด Terminal ขึ้นมาที่ directory ของโปรเจคที่ต้องการ หรือสร้าง directory ใหม่ขึ้นมา แล้วตั้งชื่อ directory ว่า `learn-get`
+1. เปิด Terminal ขึ้นมาที่ directory ของโปรเจคที่ต้องการ หรือสร้าง directory ใหม่ขึ้นมา แล้วตั้งชื่อ directory ว่า `learn-git`
 2. รันคำสั่ง 
 
 ```bash
