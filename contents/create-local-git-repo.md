@@ -18,6 +18,7 @@ Initialized empty Git repository in /Users/teerasejjiraphatchandej/Desktop/git-h
 
 ## Alternative: สร้าง local git repository ด้วย Visual Studio Code
 
-1. เปิด Visual Studio Code ขึ้นมา
-2. กด `Cmd + Shift + P` แล้วพิมพ์คำว่า `Git: Initialize Repository`
-3. เลือก directory ที่ต้องการสร้าง git repository แล้วกด Enter
+1. สร้าง directory ชื่อ `learn-git-2`
+2. เปิด Visual Studio Code ขึ้นมา และเปิดโฟลเดอร์ดังกล่าว
+3. กด `Cmd + Shift + P` แล้วพิมพ์คำว่า `Git: Initialize Repository`
+4. เลือก directory ที่ต้องการสร้าง git repository แล้วกด Enter
